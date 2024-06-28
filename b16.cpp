@@ -25,7 +25,7 @@ int main(){
 	float a[1000];
 	int n = 0;
 	doctep(a, n);
-	if(kiemtrasapxep(a, n)) printf("\nYES");
+	if(kiemtrasapxep(a, n)) printf("YES");
 	else printf("NO");
 	return 0;
 }
